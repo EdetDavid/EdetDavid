@@ -53,7 +53,7 @@ I am a **FullStack Engineer** and **Mobile Application Developer** with a passio
 
 <p align="center">
   <a href="https://github.com/EdetDavid/EdetDavid/blob/main/Edet%20David%20Nsikak%20-%20Microsoft%20Backend-End%20Developer.pdf">
-    <img src="https://edetdavid.vercel.app/static/media/frosh.921f0b509ad70edfe1e9.png" alt="Certificate Preview" width="600"/>
+    <img src="[https://edetdavid.vercel.app/static/media/frosh.921f0b509ad70edfe1e9.png](https://github.com/EdetDavid/EdetDavid/blob/main/Career%20Certificate.png)" alt="Certificate Preview" width="600"/>
   </a>
 </p>
 
