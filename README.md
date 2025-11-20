@@ -1,5 +1,7 @@
 <!-- Banner -->
-
+<!-- <p align="center">
+  <img src="https://edetdavid.vercel.app/static/media/frosh.921f0b509ad70edfe1e9.png" alt="Edet David Nsikak" width="200"/>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Edet David Nsikak</h1>
 <h3 align="center">🚀 FullStack Developer | Mobile App Developer | React & Python Enthusiast</h3>
@@ -47,15 +49,20 @@ I am a **FullStack Engineer** and **Mobile Application Developer** with a passio
 
 <p align="center">
   <a href="https://github.com/EdetDavid/EdetDavid/blob/main/Edet%20David%20Nsikak%20-%20Microsoft%20Backend-End%20Developer.pdf">
-    <img src="https://img.shields.io/badge/Microsoft%20Career%20Certificate-Backend%20Developer-blue?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Career Certificate"/>
+    <img src="https://github.com/EdetDavid/EdetDavid/blob/main/Career%20Certificate.png" alt="Microsoft Career Certificate" width="600"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/EdetDavid/EdetDavid/blob/main/Edet%20David%20Nsikak%20-%20Microsoft%20Backend-End%20Developer.pdf">
-    <img src="[https://edetdavid.vercel.app/static/media/frosh.921f0b509ad70edfe1e9.png](https://github.com/EdetDavid/EdetDavid/blob/main/Career%20Certificate.png)" alt="Certificate Preview" width="600"/>
-  </a>
+  🎓 <strong>Microsoft Back-End Developer Professional Certificate</strong>  
 </p>
+
+This certification validates my expertise in:
+- Designing and optimizing web APIs  
+- Managing relational databases  
+- Implementing security and authentication measures  
+- Optimizing application performance for scalability  
+- Proficiency in **.NET**, advanced **C#**, and leveraging **Microsoft Copilot** for coding and debugging  
 
 ---
 
