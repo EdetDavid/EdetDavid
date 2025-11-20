@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://edetdavid.vercel.app/static/media/frosh.921f0b509ad70edfe1e9.png" alt="Edet David Nsikak" width="200"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Edet David Nsikak</h1>
 <h3 align="center">🚀 FullStack Developer | Mobile App Developer | React & Python Enthusiast</h3>
