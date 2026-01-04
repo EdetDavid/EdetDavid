@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Edet David Nsikak</h1>
 <h3 align="center">
-🚀 Full-Stack Developer | Mobile App Developer | React, Python & .NET Engineer
+🚀 Full-Stack Developer | Mobile App Developer | Python, Node.js & .NET Engineer
 </h3>
 
 <p align="center">
-I build scalable, secure, and user-focused web and mobile applications that solve real-world problems.
+I design and build scalable, secure, and user-centric web and mobile applications that solve real-world problems.
 </p>
 
 ---
@@ -30,21 +30,21 @@ I build scalable, secure, and user-focused web and mobile applications that solv
 
 ## 🌟 About Me
 
-I am a **Full-Stack Engineer and Mobile Application Developer** with **4+ years of hands-on experience** building production-ready applications across web and mobile platforms.
+I am a **Full-Stack Engineer and Mobile Application Developer** with **4+ years of professional experience** building and maintaining production-grade applications across web and mobile platforms.
 
-I specialize in:
-- Designing clean and maintainable architectures  
-- Building secure backend systems and APIs  
-- Creating responsive and intuitive user interfaces  
-- Refactoring legacy code without introducing regressions  
+I focus on:
+- Backend systems and RESTful API development  
+- Scalable database design and optimization  
+- Clean, maintainable, and testable codebases  
+- Debugging, refactoring, and performance tuning  
 
-I enjoy working on challenging problems and turning complex requirements into simple, reliable solutions.
+I enjoy translating complex business requirements into simple, reliable, and secure software solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core Languages & Frameworks
+### Core Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs" />
 </p>
@@ -56,7 +56,7 @@ I enjoy working on challenging problems and turning complex requirements into si
 
 ### Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,dotnet,postgresql" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,dotnet,postgresql,mysql" />
 </p>
 
 ### Tools & Workflow
@@ -71,18 +71,18 @@ I enjoy working on challenging problems and turning complex requirements into si
 ### 🔹 Thrive Holdings Limited  
 🌐 https://www.thrivenig.com  
 
-- Built and maintained internal software solutions for insurance workflows  
-- Improved operational efficiency through automation and custom tools  
-- Collaborated with cross-functional teams to deliver business-critical features  
+- Developed and maintained internal software solutions for insurance workflows  
+- Built backend services to automate and streamline business operations  
+- Collaborated with cross-functional teams to deliver reliable features  
 
 ---
 
 ### 🔹 Personal Portfolio  
 🌐 https://edetdavid.vercel.app  
 
-- Fully responsive portfolio showcasing projects and skills  
+- Responsive portfolio website showcasing projects and skills  
 - Optimized for performance, accessibility, and SEO  
-- Built to reflect modern frontend best practices  
+- Built using modern frontend best practices  
 
 ---
 
@@ -98,12 +98,12 @@ I enjoy working on challenging problems and turning complex requirements into si
   🎓 <strong>Microsoft Back-End Developer Professional Certificate</strong>
 </p>
 
-**Key competencies validated:**
+**This certification validates expertise in:**
 - RESTful API design and optimization  
-- Relational database management  
+- Relational database management (PostgreSQL & MySQL)  
 - Authentication, authorization, and security best practices  
-- Performance optimization and scalability  
-- Advanced **C#**, **.NET**, and effective use of **Microsoft Copilot**
+- Application performance and scalability  
+- Advanced **C#**, **.NET**, and effective use of **Microsoft Copilot**  
 
 ---
 
@@ -138,27 +138,28 @@ Bachelor of Science (B.Sc.) in Computer Science
 
 ### **Techroom, Uyo**  
 **Backend & Mobile Developer** (2020 – 2024)
-- Developed backend services and mobile application features  
-- Debugged and optimized existing systems  
-- Worked with modern development workflows and best practices  
+- Built backend services using Python and Node.js  
+- Worked with relational databases (PostgreSQL & MySQL)  
+- Debugged and refactored legacy systems  
+- Collaborated within agile development teams  
 
 ### **Thrive Insurance Brokers Limited**  
 **IT Intern** (2023)
-- Supported internal software systems  
-- Assisted with troubleshooting and system maintenance  
+- Assisted in maintaining internal systems  
+- Provided technical support and troubleshooting  
 
 ### **Freelance Developer**  
 (2023 – Present)
-- Delivered web applications for clients  
-- Worked directly with stakeholders to gather requirements  
-- Ensured timely delivery and code quality  
+- Delivered full-stack web applications for clients  
+- Designed APIs and database schemas  
+- Communicated directly with stakeholders to meet business goals  
 
 ---
 
 ## 🎯 Goals & Aspirations
 
-- Deepen expertise in **Cloud Computing & DevOps**  
-- Contribute consistently to **open-source projects**  
+- Advance skills in **Cloud Computing & DevOps**  
+- Contribute to impactful **open-source projects**  
 - Build a **scalable startup product**  
 - Mentor and support upcoming developers  
 
