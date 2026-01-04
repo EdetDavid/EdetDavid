@@ -35,8 +35,8 @@ I am a **Full-Stack Engineer and Mobile Application Developer** with **4+ years 
 I focus on:
 - Backend systems and RESTful API development  
 - Scalable database design and optimization  
+- Modern frontend frameworks and tooling  
 - Clean, maintainable, and testable codebases  
-- Debugging, refactoring, and performance tuning  
 
 I enjoy translating complex business requirements into simple, reliable, and secure software solutions.
 
@@ -49,9 +49,9 @@ I enjoy translating complex business requirements into simple, reliable, and sec
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs" />
 </p>
 
-### Frontend
+### Frontend Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,blazor" />
 </p>
 
 ### Backend & Databases
@@ -61,7 +61,7 @@ I enjoy translating complex business requirements into simple, reliable, and sec
 
 ### Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,vite" />
 </p>
 
 ---
@@ -138,10 +138,10 @@ Bachelor of Science (B.Sc.) in Computer Science
 
 ### **Techroom, Uyo**  
 **Backend & Mobile Developer** (2020 – 2024)
-- Built backend services using Python and Node.js  
+- Built backend services using Python, Node.js, and .NET  
 - Worked with relational databases (PostgreSQL & MySQL)  
+- Supported frontend development using React and Blazor  
 - Debugged and refactored legacy systems  
-- Collaborated within agile development teams  
 
 ### **Thrive Insurance Brokers Limited**  
 **IT Intern** (2023)
@@ -152,7 +152,7 @@ Bachelor of Science (B.Sc.) in Computer Science
 (2023 – Present)
 - Delivered full-stack web applications for clients  
 - Designed APIs and database schemas  
-- Communicated directly with stakeholders to meet business goals  
+- Built frontend applications with modern tooling (Vite, React)  
 
 ---
 
