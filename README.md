@@ -110,14 +110,8 @@ I enjoy translating complex business requirements into simple, reliable, and sec
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdetDavid&show_icons=true&theme=radical&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdetDavid&theme=radical&hide_border=true" height="170"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdetDavid&layout=compact&theme=radical&hide_border=true&langs_count=4&hide=html,css" height="160"/>
-</p>
-
 <p align="center">
   <strong>Primary Languages</strong><br/>
   <img src="https://skillicons.dev/icons?i=python,javascript" height="48"/>
