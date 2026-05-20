@@ -56,7 +56,8 @@ I enjoy translating complex business requirements into simple, reliable, and sec
 
 ### Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,dotnet,postgresql,mysql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,dotnet,postgresql,mysql" />
+   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ### Tools & Workflow
