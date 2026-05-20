@@ -51,12 +51,12 @@ I enjoy translating complex business requirements into simple, reliable, and sec
 
 ### Frontend Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,angular" />
 </p>
 
 ### Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,dotnet,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,dotnet,postgresql,mysql,sqlserver" />
 </p>
 
 ### Tools & Workflow
